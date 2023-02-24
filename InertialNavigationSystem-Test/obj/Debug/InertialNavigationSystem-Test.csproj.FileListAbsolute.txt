@@ -7,3 +7,14 @@ c:\users\mikol\documents\visual studio 2015\Projects\InertialNavigationSystem\In
 c:\users\mikol\documents\visual studio 2015\Projects\InertialNavigationSystem\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.csprojResolveAssemblyReference.cache
 c:\users\mikol\documents\visual studio 2015\Projects\InertialNavigationSystem\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.dll
 c:\users\mikol\documents\visual studio 2015\Projects\InertialNavigationSystem\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.pdb
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\bin\Debug\InertialNavigationSystem-Test.dll
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\bin\Debug\InertialNavigationSystem-Test.pdb
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\bin\Debug\InertialNavigationSystem.dll
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\bin\Debug\nunit.framework.dll
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\bin\Debug\InertialNavigationSystem.pdb
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\bin\Debug\nunit.framework.xml
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.csprojAssemblyReference.cache
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.csproj.CopyComplete
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.dll
+C:\Users\Paolo\Documents\insForZed\InertialNavigationSystem-Test\obj\Debug\InertialNavigationSystem-Test.pdb
